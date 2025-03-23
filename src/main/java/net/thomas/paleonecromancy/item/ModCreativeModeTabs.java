@@ -24,6 +24,7 @@ public class ModCreativeModeTabs {
                         output.accept(ModBlocks.NECRONIUM_BLOCK.get());
                         output.accept(ModBlocks.NECRONIUM_ORE.get());
                         output.accept(ModBlocks.DEEPSLATE_NECRONIUM_ORE.get());
+                        output.accept(ModBlocks.SUSPICIOUS_STONE.get());
                     })
                     .build());
 
